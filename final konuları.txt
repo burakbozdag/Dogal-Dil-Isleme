@@ -1,0 +1,8 @@
+Grammars (CH 12)
+Parsing (CH 13) : burada özellikler earley ve CYK algoirtmaları üzerinde duruludu
+Dependency Parsing (CH 14): Bu bölümde CONLL-X ORTAK çalışmasını not almışım.
+Semantic: Bu konuda da zaten makale sunumlarını yaptık.
+
+Hocanın slaytlarında (8-grammars, ...,10-semantic) arasındaki slaytlara karşılık geliyor.
+
+https://ituedutr-my.sharepoint.com/:f:/g/personal/satir17_itu_edu_tr/EmStiKudzBRAuSDSRtQyobgBFEkL8aQ2aTszBnen2e6d1Q?e=mcL84m
